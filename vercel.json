@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/perps/:path*",
-      "destination": "https://b1121269.levana-perps-webapp.pages.dev/:path*"
+      "destination": "https://1515bd5d.levana-perps-webapp.pages.dev/:path*"
     }
   ]
 }
